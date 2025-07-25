@@ -157,3 +157,46 @@ nav li a {
   display: flex;
   flex-direction: row;
 }
+.container-img {
+  position: relative;
+  height: auto;
+  margin-top: 120px;
+}
+/* full width image style  */
+.container-img img {
+  width: 100%;
+  height: auto;
+}
+.one {
+  font-weight: 700;
+  font-size: 50px;
+  color: #ffffff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.two {
+  font-weight: 300;
+  font-size: 20px;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.input {
+  border: none;
+  margin-top: 20px;
+  width: 350px;
+  height: 40px;
+  padding: 10px;
+}
+.subscribe {
+  background-color: #e95a08;
+  border: none;
+  color: white;
+  margin-top: 20px;
+  margin-left: auto;
+  width: 70px;
+  height: 40px;
+}
