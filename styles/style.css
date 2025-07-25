@@ -137,3 +137,23 @@ nav li a {
   font-weight: 400;
   margin-top: 20px;
 }
+.letest-deal {
+  text-align: center;
+}
+.letest-deal h1 {
+  font-weight: 700;
+  font-size: 50px;
+  font-family: noto-serif;
+  margin-top: 130px;
+}
+.letest-deal p {
+  font-family: inter;
+  font-weight: 400;
+  font-size: 22px;
+  margin-top: 16px;
+}
+/* letest deal style */
+.letest-deal-photo {
+  display: flex;
+  flex-direction: row;
+}
