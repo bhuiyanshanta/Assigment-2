@@ -122,3 +122,18 @@ nav li a {
   font-weight: 600;
   font-size: 1rem;
 }
+.flower-plants {
+  display: flex;
+  justify-content: space-between;
+  gap: 60px;
+}
+.flower-plants h2 {
+  font-weight: 700;
+  font-size: 50px;
+  font-family: noto serif;
+}
+.flower-plants ul li {
+  font-size: 22px;
+  font-weight: 400;
+  margin-top: 20px;
+}
